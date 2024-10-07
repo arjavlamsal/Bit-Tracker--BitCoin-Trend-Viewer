@@ -39,7 +39,7 @@ pip install pandas pycoingecko plotly
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Flack74/BitVortex.git
+   git clone https://github.com/arjavlamsal/BitCoin-Trend-Viewer.git
    ```
 
 2. **Navigate to the project directory**:
